@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React Js**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at [coming soon...]
 
 - 💬 Ask me about **React JS,Tailwind CSS**
 
